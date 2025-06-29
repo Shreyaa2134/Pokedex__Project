@@ -18,3 +18,8 @@
     padding-bottom: 0.5rem;
     margin-right: 1rem;
 }
+
+.pokemon-details-image {
+    margin: 2rem;
+    max-height: 200px;
+}
